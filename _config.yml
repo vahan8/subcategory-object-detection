@@ -1,4 +1,4 @@
 title: Subcategory Object Detection
-description: Detect subcategory-subclasses of an object.
+description: Detect objects having some type of subcategory-subclasses.
 show_downloads: true
 theme: jekyll-theme-architect
