@@ -1,1 +1,6 @@
-#usefull links for resaourc
+#usefull links for resource
+
+https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93
+
+#R-CNN     
+    https://towardsdatascience.com/r-cnn-3a9beddfd55a

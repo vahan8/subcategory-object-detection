@@ -1,0 +1,17 @@
+#R-CNN
+    #Region proposals algorithms
+        #VGG
+    #CNN
+    #SVM
+
+
+######## comments for reading blovks ########
+#|||||||||||||||||||||||||||||||||||||||||||#
+
+#VGG
+#AlexNet
+#LeNet
+#ResNets -residual networks
+#GoogleNet Inception network
+
+shortcut / skip connections
