@@ -4,3 +4,5 @@ https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec5
 
 #R-CNN     
     https://towardsdatascience.com/r-cnn-3a9beddfd55a
+#Fast R-CNN
+    https://towardsdatascience.com/part-2-fast-r-cnn-object-detection-7303e1988464

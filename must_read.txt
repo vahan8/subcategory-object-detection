@@ -13,5 +13,10 @@
 #LeNet
 #ResNets -residual networks
 #GoogleNet Inception network
-
-shortcut / skip connections
+#Landmark Detection
+#shortcut / skip connections
+#Sliding windows detection
+#Intersection over Union
+#region proposals
+#Fast R-CNN
+#Faster R-CNN
