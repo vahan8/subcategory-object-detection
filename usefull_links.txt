@@ -1,5 +1,7 @@
 #usefull links for resource
 
+https://towardsdatascience.com/5-significant-object-detection-challenges-and-solutions-924cb09de9dd
+
 https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93
 
 #R-CNN     
